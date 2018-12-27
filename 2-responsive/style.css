@@ -1,0 +1,57 @@
+.ml-auto {
+  left: auto !important;
+  right: 0px;
+}
+
+.ppjumbotron {
+  background-color: #d8d8d8;
+  text-align: center;
+  color: black;
+  padding: 100px 250px 250px 100px;
+  box-model: border-box;
+  border: 10px solid transparent;
+  border-top: 0px;
+  background-clip: padding-box;
+}
+
+.bloc-1 {
+  background-color: #50e3c2;
+  padding: 100px 100px 100px 100px;
+  text-align: center;
+}
+
+.bloc-2 {
+  background-color: #b8e986;
+  padding: 100px 100px 100px 100px;
+  text-align: center;
+}
+
+.bloc-3 {
+  background-color: #4a90e2;
+  padding: 100px 100px 100px 100px;
+  text-align: center;
+}
+
+.box {
+  box-model: border-box;
+  border: 5px solid transparent;
+  background-clip: padding-box;
+}
+
+.navigation-link {
+  font-family: 'Avenir Next';
+  color: white;
+}
+
+#itszombo {
+  font-family: 'Avenir Next';
+  color: rgb(78, 78, 78);
+}
+
+#line {
+  border-top: 3px solid rgb(78, 78, 78);
+  width: 100%;
+  border-bottom: 5px solid transparent;
+}
+
+
